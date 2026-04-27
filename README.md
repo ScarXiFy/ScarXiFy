@@ -12,6 +12,8 @@ I'm a Software Engineer in the making | Currently a 3rd year Computer Engineerin
 | Project | What it does | Link |
 |---------|-------------|------|
 | **Kwartrack** | A money-tracking app. | [Repo](https://github.com/ScarXiFy/Kwartrack) |
+| **CPE 3108** | Adaptive Temperature and Hatch-Time Estimator Fish Egg Hatchery. | [Repo](https://github.com/ScarXiFy/CPE-3108) |
+| **T3via** | A general trivia quiz game. | [Repo](https://github.com/ScarXiFy/T3via) |
 
 
 

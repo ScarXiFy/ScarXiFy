@@ -1,4 +1,4 @@
-# Hey, I'm John Enrico Lauron 👋
+# Hey, I'm John Enrico Lauron ![wave](wave.svg)
 
 I'm a Software Engineer in the making | Currently a 3rd year Computer Engineering student passionate about building things that matter.
 

@@ -5,7 +5,7 @@ I'm a Software Engineer in the making | Currently a 3rd year Computer Engineerin
 ## 🔭 What I'm working on
 
 - [**Carolinian Events Management System**](https://github.com/ScarXiFy/carolinian-events) — A web-based platform for managing and organizing university events at the University of San Carlos
-- [**Mommy J Catering Web App**](https://github.com/yourusername/another-project) — A full-stack web application for a catering business to showcase menus, accept orders, and manage bookings
+- [**Mommy J Catering Web App**](https://github.com/ScarXiFy/himuon-pani-nako-hahaha) — A full-stack web application for a catering business to showcase menus, accept orders, and manage bookings
 
 ## 🚀 Featured projects
 

@@ -17,8 +17,7 @@ I'm a Software Engineer in the making | Currently a 3rd year Computer Engineerin
 
 ## 🛠️ Tech stack
 
-[![Tech Stack](https://skillicons.dev/icons?i=js,ts,react,nodejs,py,java,c,cpp,php,html,css,nextjs,git)](https://skillicons.dev)
-![x86 Assembly](https://img.shields.io/badge/--525252?logo=assemblyscript&logoColor=white&style=flat-square)
+[![Tech Stack](https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,php,ts,react,nodejs,nextjs,mysql,mongodb,git)](https://skillicons.dev)
 
 ## 📫 Let's connect
 

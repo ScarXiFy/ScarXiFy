@@ -6,7 +6,7 @@
 
 ### Currently working on
 
-- [**Carolinian Events**](https://github.com/ScarXiFy/carolinian-events) — Event management system for USC. Handles event creation, registration, and scheduling so student orgs don't have to do it over group chats.
+- [**Carolinian Events**](https://github.com/ScarXiFy/Carolinian-Events-Management-System) — Event management system for USC. Handles event creation, registration, and scheduling so student orgs don't have to do it over group chats.
 - [**Mommy J Catering**](https://github.com/ScarXiFy/himuon-pani-nako-hahaha) — Web app for a family catering business. Menu browsing, order placement, booking management — the whole flow.
 
 ### Other stuff I've built

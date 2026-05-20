@@ -1,4 +1,6 @@
-# Hey, I'm John Enrico ![wave](wave.svg)
+<h1 align="center">
+  Hey, I'm John Enrico <img src="wave.svg" width="50" height="50" alt="wave" />
+</h1>
 
 3rd year Computer Engineering student at the University of San Carlos. I build web applications and hardware projects.
 

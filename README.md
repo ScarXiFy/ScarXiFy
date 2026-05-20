@@ -2,14 +2,7 @@
 
 # Hey, I'm John Enrico <img src="wave.svg" width="50" height="50" alt="wave" />
 
-<pre>
-<code>john@scarxify:~$ whoami
-John Enrico Lauron
-
-john@scarxify:~$ cat about.txt
-3rd year Computer Engineering student @ University of San Carlos
-Building web applications and hardware projects</code>
-</pre>
+<img src="terminal.svg" alt="Terminal profile card" width="760" />
 
 ---
 

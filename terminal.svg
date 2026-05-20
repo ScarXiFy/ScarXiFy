@@ -1,0 +1,36 @@
+<svg width="760" height="210" viewBox="0 0 760 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; }
+    .prompt { fill: #67e8f9; font-weight: 600; }
+    .command { fill: #f8fafc; }
+    .output { fill: #cbd5e1; }
+    .muted { fill: #94a3b8; }
+    .cursor {
+      animation: blink 1s steps(2, start) infinite;
+    }
+    @keyframes blink {
+      0%, 45% { opacity: 1; }
+      46%, 100% { opacity: 0; }
+    }
+  </style>
+
+  <rect x="1" y="1" width="758" height="208" rx="14" fill="#0f172a" stroke="#334155" stroke-width="2"/>
+  <rect x="1" y="1" width="758" height="38" rx="14" fill="#111827"/>
+  <path d="M1 28H759V40H1V28Z" fill="#111827"/>
+
+  <circle cx="25" cy="20" r="6" fill="#ef4444"/>
+  <circle cx="45" cy="20" r="6" fill="#f59e0b"/>
+  <circle cx="65" cy="20" r="6" fill="#22c55e"/>
+
+  <text x="380" y="25" text-anchor="middle" class="mono muted" font-size="13">profile.sh</text>
+
+  <text x="30" y="68" class="mono prompt" font-size="16">enricode@scarxify</text>
+  <text x="188" y="68" class="mono command" font-size="16">:~$ whoami</text>
+  <text x="30" y="94" class="mono output" font-size="16">John Enrico Lauron</text>
+
+  <text x="30" y="132" class="mono prompt" font-size="16">enricode@scarxify</text>
+  <text x="188" y="132" class="mono command" font-size="16">:~$ cat about.txt</text>
+  <text x="30" y="158" class="mono output" font-size="16">3rd year Computer Engineering student @ University of San Carlos</text>
+  <text x="30" y="184" class="mono output" font-size="16">Building web applications and hardware projects</text>
+  <rect x="452" y="171" width="9" height="17" class="cursor" fill="#67e8f9"/>
+</svg>

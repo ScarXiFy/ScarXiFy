@@ -32,5 +32,5 @@
   <text x="188" y="132" class="mono command" font-size="16">:~$ cat about.txt</text>
   <text x="30" y="158" class="mono output" font-size="16">3rd year Computer Engineering student @ University of San Carlos</text>
   <text x="30" y="184" class="mono output" font-size="16">Building web applications and hardware projects</text>
-  <rect x="452" y="171" width="9" height="17" class="cursor" fill="#67e8f9"/>
+  <rect x="450" y="171" width="9" height="17" class="cursor" fill="#67e8f9"/>
 </svg>
